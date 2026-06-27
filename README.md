@@ -108,10 +108,6 @@ int main() {
 
 This repository is continuously updated with new problems and optimized solutions.
 
-## Author
-
-GitHub: YOUR_GITHUB_USERNAME
-
 ---
 
 ⭐ If you find this repository useful, feel free to star it.
